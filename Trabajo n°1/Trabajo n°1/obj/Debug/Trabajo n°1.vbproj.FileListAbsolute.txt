@@ -1,0 +1,13 @@
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\bin\Debug\Trabajo n°1.exe.config
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\bin\Debug\Trabajo n°1.exe
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\bin\Debug\Trabajo n°1.pdb
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\bin\Debug\Trabajo n°1.xml
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.vbproj.AssemblyReference.cache
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo_n_1.Form1.resources
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo_n_1.Form2.resources
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo_n_1.Resources.resources
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.vbproj.GenerateResource.cache
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.exe
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.xml
+C:\Users\PC1\source\repos\Trabajo n°1\Trabajo n°1\obj\Debug\Trabajo n°1.pdb
